@@ -51,7 +51,7 @@ function prevSlide() {
 
 leftArrow.addEventListener("click", prevSlide);
 rightArrow.addEventListener("click", nextSlide);
-
+selectedDot();
 function selectedDot() {
 	const dotElements =
 		document.querySelectorAll('.dot');
