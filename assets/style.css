@@ -136,7 +136,7 @@ header {
 }
 /* Style pour le point actif */
 .dot.active {
-    background-color: #f00; /* Couleur du point actif (par exemple, rouge) */
+    background-color:white; 
 }
 
 
